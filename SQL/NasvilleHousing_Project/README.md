@@ -7,7 +7,7 @@ This project focuses on **data cleaning and transformation** of raw housing data
 SQL queries? Check them out here: [NasvilleHousing_Project folder](/SQL/NasvilleHousing_Project/NashvilleHousing_Portfolio_Project.sql).
 
 ---
-# Tools I Used
+## Tools I Used
 
 For this project, I leveraged the following tools:
 
@@ -137,7 +137,7 @@ DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate;
 
 ---
 
-### Closing Thoughts
+## Closing Thoughts
 
 This project strengthened my **SQL data cleaning skills** and reinforced the importance of **structured data preparation** for any analysis.
 
