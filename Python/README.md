@@ -4,7 +4,7 @@
 
 Exploring the film industry with Python! This project leverages Python libraries to identify **influential variables affecting the gross earnings of movies**. By analyzing factors like budget, votes, production company, we uncover patterns that drive box office success. 
 
-Python code? Check them out here: [Python folder](/Pyhton/Movie_Correlation_PortfolioProject.ipynb).
+Python code? Check them out here: [Python folder](/Python/Movie_Correlation_PortfolioProject.ipynb).
 
 ---
 
