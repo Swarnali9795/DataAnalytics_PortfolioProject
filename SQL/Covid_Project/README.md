@@ -3,7 +3,7 @@
 Dive into the COVID-19 pandemic through data!
 This project analyzes global COVID-19 trends including cases, deaths, vaccinations, and population impact. Using SQL, I explored infection rates, death percentages, vaccination progress, and country/continent-level comparisons.
 
-SQL queries? Check them out here: [Covid_Project folder](/SQL/Covid_Project/).
+SQL queries? Check them out here: [Covid_Project folder](/SQL/Covid_Project/Covid_Portfolio_Project_1.sql/).
 
 ---
 
