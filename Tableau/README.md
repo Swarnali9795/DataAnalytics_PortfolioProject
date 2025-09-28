@@ -3,7 +3,7 @@
 Dive deeper into the global impact of the COVID-19 pandemic through interactive visualizations!
 This project builds on my SQL-based analysis of COVID-19 data by creating a Tableau dashboard that highlights key metrics such as global cases, deaths, infection percentages, and population-level impacts. It also incorporates Tableau’s forecasting capability to estimate future infection trends based on historical data.
 
-🔗 SQL analysis project: [COVID-19 Data Exploration](/Covid_Project)
+🔗 SQL analysis project: [COVID-19 Data Exploration](/Tableau/Covid_Project)
 
 👉 Explore the dashboard here: [COVID-19 Tableau Dashboard](https://public.tableau.com/app/profile/swarnali.banerjee/viz/Covid_Data_Dashboard_17587963546020/Dashboard1)
 
